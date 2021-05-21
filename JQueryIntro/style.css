@@ -1,0 +1,12 @@
+.first {
+    background-color: lightgreen;
+    border: 1px solid #ccc;
+    font-weight: bold;
+    width: 360px;
+}
+
+.second {
+    background-color: lightcoral;
+    font-weight: 800;
+    width: 4450px;
+}
